@@ -1,4 +1,4 @@
-console.log("overly-excited-STEP2.js");
+console.log("overly-excited-STEP3.js");
 
 // Create an addExcitement function that should console.log() rows of words. It should take an array containing the words of a sentence and output them in the developer console.
 
